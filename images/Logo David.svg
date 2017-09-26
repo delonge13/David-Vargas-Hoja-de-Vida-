@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Logo David</title>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="100" width="233.999996" y="127" x="160" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ff9c3f"/>
+  <text transform="matrix(3.30726, 0, 0, 3.30726, -216.123, -378.927)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="175.025358" x="141.841255" stroke-width="0" stroke="#000000" fill="#000000">DV</text>
+  <path opacity="0.5" id="svg_3" d="m152,136l-2,98l114,1l-112,-99z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#914804"/>
+  <line id="svg_5" y2="235.469485" x2="405" y1="113.507049" x1="405" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#000000" fill="none"/>
+  <line id="svg_6" y2="114" x2="404.596241" y1="114" x1="306.999998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#000000" fill="none"/>
+ </g>
+</svg>
